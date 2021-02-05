@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import './Intro.css';
 import img from "../static/larissa1.png";
 
 class Intro extends Component {
